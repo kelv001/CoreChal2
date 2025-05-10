@@ -1,0 +1,30 @@
+//
+//  foodData.json
+//  KastuGO_CoreChallenge02
+//
+//  Created by Kelvin Ongko Hakim on 10/05/25.
+//
+
+[
+  {
+    "name": "Kelvin's Meal",
+    "items": [
+      { "name": "Item A", "price": 5000, "quantity": 1, "mealimage": "phototest" },
+      { "name": "Item B", "price": 10000, "quantity": 1, "mealimage": "phototest2" },
+      { "name": "Item C", "price": 5000, "quantity": 1 },
+      { "name": "Item D", "price": 8000, "quantity": 1 },
+      { "name": "Item E", "price": 7000, "quantity": 1 }
+    ],
+    "totalPrice": 35000
+  },
+  {
+    "name": "Sam's Meal",
+    "items": [
+      { "name": "Nasi", "price": 5000, "quantity": 1 },
+      { "name": "Ayam Asam Manis", "price": 10000, "quantity": 1 },
+      { "name": "Sayur Asem", "price": 5000, "quantity": 1 },
+      { "name": "Mie Goreng", "price": 8000, "quantity": 1 }
+    ],
+    "totalPrice": 28000
+  }
+]
